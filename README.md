@@ -4,7 +4,13 @@ This is a html5 boilerplate (or snippet, or anything you want to call it =p) to 
 
 ## Usage
 
-Simply change the harcoded paths in file ("path-to-your-css") and start!
+Simply change the harcoded paths ("path-to-your-css") in file and start!
+
+This file has three versions:
+
+1 - Commented (full);
+2 - No comments (minified);
+3 - Sublime Text 2 Snippet
 
 ## Contributing
 
