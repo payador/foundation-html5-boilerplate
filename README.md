@@ -6,11 +6,12 @@ This is a html5 boilerplate (or snippet, or anything you want to call it =p) to 
 
 Simply change the harcoded paths ("path-to-your-css") in file and start!
 
-This file has three versions:
-
+This file has three basic versions:
 1 - Commented (full);<br>
 2 - No comments (minified);<br>
-3 - Sublime Text 2 Snippet
+3 - Sublime Text 2 Snippet (full and minified)
+
+The 'tabtrigger' snippets is foundation. Simply press TAB and see the magic!
 
 ## Contributing
 
@@ -26,8 +27,8 @@ This file was borned of my needs in the company that I'm working. We started a n
 
 ## Credits
 
-https://github.com/mdentinho => Thanks for make me do this! ^^<br>
-https://github.com/zenorocha => Thanks for made this README template!
+https://github.com/mdentinho => Thanks for making me do this! ^^<br>
+https://github.com/zenorocha => Thanks for this README template!
 
 ## License
 
