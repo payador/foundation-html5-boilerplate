@@ -20,7 +20,7 @@ This file was borned of my needs in the company that I'm working. We started a n
 
 ## Credits
 
-https://github.com/mdentinho => Thanks for make me do this! ^^
+https://github.com/mdentinho => Thanks for make me do this! ^^<br>
 https://github.com/zenorocha => Thanks for made this README template!
 
 ## License
