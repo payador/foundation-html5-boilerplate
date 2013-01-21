@@ -8,8 +8,8 @@ Simply change the harcoded paths ("path-to-your-css") in file and start!
 
 This file has three versions:
 
-1 - Commented (full);
-2 - No comments (minified);
+1 - Commented (full);<br>
+2 - No comments (minified);<br>
 3 - Sublime Text 2 Snippet
 
 ## Contributing
