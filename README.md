@@ -16,7 +16,7 @@ Simply change the harcoded paths in file ("path-to-your-css") and start!
 
 ## History
 
-This file was borned of my needs in the company that I'm working. We started a new project every month, and copy-paste was boring. So, I've made this boilerplate (or snippet, or anything you want to call it =p) to simplify our work. Hope you enjoy!
+This file was borned of my needs in the company that I'm working. We started a new project every month, and copy-paste was boring. So, I've made this boilerplate to simplify our work. Hope you enjoy!
 
 ## Credits
 
