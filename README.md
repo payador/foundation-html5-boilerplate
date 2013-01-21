@@ -13,6 +13,8 @@ This file has three basic versions:<br>
 
 The snippet have a tabtrigger. Simply type "foundation", press TAB and see the magic!
 
+To download Foundation 3, <a href="http://foundation.zurb.com/">click here</a>.
+
 ## Contributing
 
 1. Fork it!
@@ -28,7 +30,8 @@ This file was borned of my needs in the company that I'm working. We started a n
 ## Credits
 
 https://github.com/mdentinho => Thanks for making me do this! ^^<br>
-https://github.com/zenorocha => Thanks for this README template!
+https://github.com/zenorocha => Thanks for this README template!<br>
+https://github.com/zurb/foundation => Thanks for the powerfull framework
 
 ## License
 
