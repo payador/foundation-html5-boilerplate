@@ -1,14 +1,10 @@
-# Foundation 3 Boilerplate
+# Foundation 3 HTML5 Boilerplate
 
-This file is a boilerplate for development of a new Foundation's project
-
-## Installation
-
-TODO: Describe the installation process
+This is a html5 boilerplate (or snippet, or anything you want to call it =p) to begin a new Foundation's project.
 
 ## Usage
 
-TODO: Write usage instructions
+Simply change the harcoded paths in file ("path-to-your-css") and start!
 
 ## Contributing
 
@@ -20,12 +16,15 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+This file was borned of my needs in the company that I'm working. We started a new project every month, and copy-paste was boring. So, I've made this boilerplate (or snippet, or anything you want to call it =p) to simplify our work. Hope you enjoy!
 
 ## Credits
 
-TODO: Write credits
+@mdentinho Thanks for make me do this! ^^
+https://github.com/mdentinho
+
+
 
 ## License
 
-TODO: Write license
+This source is free for everyone or every project.
