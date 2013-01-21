@@ -1,0 +1,86 @@
+<snippet>
+	<content>
+		<![CDATA[
+		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- change this to your language. I'm from Brazil, so pt-br is my default -->
+        <meta name="language" content="pt-br" />
+
+        <title>${1:Project Name}</title>
+
+        <link rel="stylesheet" type="text/css" href="/path-to-foundation-css/foundation.min.css" />
+        
+        <!-- your style will subscribe foundation's style. if not, use !important -->
+        <link rel="stylesheet" type="text/css" href="path-to-YOUR-style/style.css" />
+
+        <!-- all IE browsers only stylesheet -->
+        <!--[if IE]>
+            <link rel="stylesheet" href="/path-to-foundation-css/ie.css">
+        <![endif]-->
+
+        <!-- Make html5 tags compatible with old IE browsers -->
+        <!--[if lte IE 9]>
+          <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <style type="text/css">
+
+            section {
+                float: left;
+                width: 100%;
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <header>
+
+            <div class="row">
+
+                <!-- here, you can put your brand logo and/or your main menu. ex: <div class="three columns" id="logo"></div> -->
+
+            </div>
+
+        </header>
+
+        <div id="content" class="row"> 
+
+            <section id="sidebar"></section>
+
+            <main></main> <!-- the new html5 tag, or you can use <section id="main"></section> -->
+
+        </div>
+
+        <footer>
+
+            <div class="row">
+            
+                <!-- here, you can put sitemap and/or your secondary menu. ex: <div class="twelve columns" id="sitemap"></div> -->
+
+            </div>
+
+        </footer>
+
+        <!-- Add the foundation script file. The minified version contains all that you need (jquery, modernizr, orbit, reveal, etc)-->
+        <script src="path-to-foundation-js/foundation.min.js"></script>
+  
+        <!-- The file that contains all your javascript stuff -->
+        <script src="path-to-YOUR-js/script.js"></script>
+
+    </body>
+
+</html>
+
+		]]>
+</content>
+
+<tabTrigger>foundation</tabTrigger>
+<description>https://github.com/gabrielfgularte/foundation-html5-boilerplate</description>
+
+</snippet>
