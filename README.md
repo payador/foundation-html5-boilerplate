@@ -32,7 +32,7 @@ The snippet have a tabtrigger. Simply type `foundation` in any file, press TAB a
 
 ## History
 
-This file was borned of my needs in the company that I'm working. We started a new project every month, and copy-paste was boring. So, I've made this boilerplate to simplify our work. Hope you enjoy!
+This file was borned of my needs in the company that I'm working. We started a new project every month, and copy-paste was boring. So, I've made this boilerplate to simplify our work. I don't think that the Foundation's examples are good enough. They have a lot of file calls comment, showing that you can use every script separately. I removed those comments and let the most important min.js file. Hope you enjoy!
 
 ## Credits
 
