@@ -6,12 +6,12 @@ This is a html5 boilerplate (or snippet, or anything you want to call it =p) to 
 
 Simply change the harcoded paths ("path-to-your-css") in file and start!
 
-This file has three basic versions:
+This file has three basic versions:<br>
 1 - Commented (full);<br>
 2 - No comments (minified);<br>
 3 - Sublime Text 2 Snippet (full and minified)
 
-The 'tabtrigger' snippets is foundation. Simply press TAB and see the magic!
+The snippet have a tabtrigger. Simply type "foundation", press TAB and see the magic!
 
 ## Contributing
 
