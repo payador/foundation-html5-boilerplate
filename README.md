@@ -20,10 +20,7 @@ This file was borned of my needs in the company that I'm working. We started a n
 
 ## Credits
 
-@mdentinho Thanks for make me do this! ^^
-https://github.com/mdentinho
-
-
+https://github.com/mdentinho Thanks for make me do this! ^^
 
 ## License
 
