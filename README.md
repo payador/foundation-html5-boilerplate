@@ -15,12 +15,12 @@ Simply change the harcoded paths ("path-to-your-css") in file and start!
 
 ### Installing the Sublime Text 2 snippet:
 
-1 - Just click on the 'Tools > New snippet...'<br>
-2 - Erase all the the new file's content<br>
-3 - Copy and paste the file contents you want (full or min)<br>
-4 - Save in the Sublime's default snippet folder.
+1 - Just click on the 'Tools > New snippet...' menu<br>
+2 - Erase all the new file's content<br>
+3 - Copy and paste the file you want (full or min)<br>
+4 - Save the snippet in the Sublime's default snippet folder.
 
-The snippet have a tabtrigger. Simply type "foundation" in any file, press TAB and see the magic!
+The snippet have a tabtrigger. Simply type `foundation` in any file, press TAB and see the magic!
 
 ## Contributing
 
