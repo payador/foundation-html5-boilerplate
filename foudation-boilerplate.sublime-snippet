@@ -11,12 +11,7 @@
 
         <title>${1:Project Name}</title>
 
-        <link rel="stylesheet" type="text/css" href="/path-to-foundation-css/foundation.min.css" />
-        
-        <!-- your style will subscribe foundation's style. if not, use !important -->
-        <link rel="stylesheet" type="text/css" href="path-to-YOUR-style/style.css" />
-
-        <!-- all IE browsers only stylesheet -->
+	<!-- all IE browsers only stylesheet -->
         <!--[if IE]>
             <link rel="stylesheet" href="/path-to-foundation-css/ie.css">
         <![endif]-->
@@ -25,6 +20,11 @@
         <!--[if lte IE 9]>
           <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+
+        <link rel="stylesheet" type="text/css" href="/path-to-foundation-css/foundation.min.css" />
+        
+        <!-- your style will subscribe foundation's style. if not, use !important -->
+        <link rel="stylesheet" type="text/css" href="path-to-YOUR-style/style.css" />
 
         <style type="text/css">
 
