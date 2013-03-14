@@ -1,4 +1,5 @@
 # Foundation 3 HTML5 Boilerplate
+#### Version 0.2
 
 This is a html5 boilerplate (or snippet, or anything you want to call it =p) to begin a new Foundation's project.
 
@@ -30,9 +31,10 @@ The snippet have a tabtrigger. Simply type `foundation` in any file, press TAB a
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
+## Changelog
 
-This file was borned of my needs in the company that I'm working. We started a new project every month, and copy-paste was boring. So, I've made this boilerplate to simplify our work. I don't think that the Foundation's examples are good enough. They have a lot of file calls comment, showing that you can use every script separately. I removed those comments and let the most important min.js file. Hope you enjoy!
+0.1: Project has two versions: minified and commented.
+0.2: Added sublime snippets versions.
 
 ## Credits
 
