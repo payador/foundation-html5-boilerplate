@@ -33,8 +33,8 @@ The snippet have a tabtrigger. Simply type `foundation` in any file, press TAB a
 
 ## Changelog
 
-0.1: Project has two versions: minified and commented.
-0.2: Added sublime snippets versions.
+0.1 - Project has two versions: minified and commented.<br>
+0.2 - Added ST2 snippets.
 
 ## Credits
 
