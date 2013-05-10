@@ -10,7 +10,7 @@
 	<title>${1:Project Name}</title>
 
         <!--[if IE]>
-            <link rel="stylesheet" href="/path-to-foundation-css/ie.css">
+            <link rel="stylesheet" href="/path-to-YOUR-style/ie.css">
         <![endif]-->
 
         <!--[if lte IE 9]>

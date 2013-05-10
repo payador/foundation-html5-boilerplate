@@ -13,7 +13,7 @@
 
 	<!-- all IE browsers only stylesheet -->
         <!--[if IE]>
-            <link rel="stylesheet" href="/path-to-foundation-css/ie.css">
+            <link rel="stylesheet" href="/path-to-YOUR-style/ie.css">
         <![endif]-->
 
         <!-- Make html5 tags compatible with old IE browsers -->
